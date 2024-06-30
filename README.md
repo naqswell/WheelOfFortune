@@ -7,6 +7,10 @@ The user enters data into the text fields or paste whole text via paste button, 
 
 This project is built using Compose Multiplatform, targeting Android, iOS, and Desktop platforms. The application leverages common ViewModels, utilizes Compose Jetpack Navigation, and implements Koin for dependency injection. Additionally, the app supports adaptive layouts.
 
+
+Uploading readme-preview.mp4…
+
+
 ## Prerequisites
 
 - [Android Studio](https://developer.android.com/studio)
